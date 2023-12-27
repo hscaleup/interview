@@ -1,0 +1,17 @@
+Design patterns: Singleton, Factory, Builder, Proxy, Decorator, Dependency Injection, IOC, Abstract factory
+Design principles: SOLID
+OOPS concept: Static, overriding and overloading, Abstraction concept
+Multithreading & Concurrency: Static, Synchronization, Thread pool, Priority Queue, completable Future, Volatile, AtomicInteger, DeadLock & Race Condition, Collable, Runnable and Future
+Java 8: Functional programing, Static and default method, Stream, parallel streams, map, reduce, flatmap, filter
+Collections: HashMap, HashMap keys, Immutable class, serialization & Clonization, Concurrent Hashmap, Caching, Linkedlist vs Arraylist, Java 8 HashMap improvement
+
+Spring core: Bean, Bean life cycle, AOP, Transaction Management, Security
+SAGA Design Patterns
+Performance Testing, Distributed Transaction Testing
+Deployment: Helm Chart & Kubernetes
+SQL Queries
+
+
+data structure , java, api automation, spring boot, selenium, framework, performance testing
+
+https://clearpoint.digital/insights/introduction-to-microservice-test-automation-with-cucumber-jvm-and-openapi
