@@ -1,0 +1,19 @@
+1. Hashmap internal working [ Linkedlist/Doubly Linkedlist, Binary tree, Collison handle, immutable class, cloning- deep & shallow, LRU cache, Time complexity & spatial complexity]
+2. List (Static & Dynamic Array, Arraylist vs Linkedlist), Set, Queues, Map, Collections, comparator and comparable, concurrent hashmap, set vs list, LinkedHashmap & Linkedhashset.
+3. Collection vs Streams API, Functional interface, Optionals, Map vs Flatmap, Map vs Reduce
+4. String (immutablity, string pool, memory leak), String buffer and String Builder concepts, Stack and Heap memory, Garbage Collection
+5. PlayWithStrings- Anargam, Duplicates, Frequency, rotate An array, Duplicates, merge two array
+6. BinarySearch logic, Sortings- Insertion, buuble sort
+7. OOPs, Static, this, super, how threads synchronisation behaves in synchronisation
+8. Exception handling, try, catch, finally
+9. Multithreading- Threads, Volatile, Thread pool, wrapper class, Atomic Integer, Synchronization, Locks, Deadlock, Producer consumer problem, blocking queues, runnable, callable, future, Completable, Future
+Solve all this
+https://naveenautomationlabs.com/selenium-java-full-paid-course-recorded-videos/
+
+Advanced Java
+https://medium.com/@vikas.taank_40391/senior-java-lead-interview-questions-part1-cad6ccc115f4
+All about microservices
+https://medium.com/@vikas.taank_40391/senior-java-lead-interview-questions-part2-3a819398cefc
+https://medium.com/@vikas.taank_40391/senior-java-lead-interview-questions-part3-0841fd6eb7ca
+
+
