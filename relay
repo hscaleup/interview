@@ -1,3 +1,9 @@
+data structure , 
+java,
+spring boot
+
+
+
 1. Hashmap internal working [ Linkedlist/Doubly Linkedlist, Binary tree, Collison handle, immutable class, cloning- deep & shallow, LRU cache, Time complexity & spatial complexity]
 2. List (Static & Dynamic Array, Arraylist vs Linkedlist), Set, Queues, Map, Collections, comparator and comparable, concurrent hashmap, set vs list, LinkedHashmap & Linkedhashset.
 3. Collection vs Streams API, Functional interface, Optionals, Map vs Flatmap, Map vs Reduce
@@ -17,3 +23,7 @@ https://medium.com/@vikas.taank_40391/senior-java-lead-interview-questions-part2
 https://medium.com/@vikas.taank_40391/senior-java-lead-interview-questions-part3-0841fd6eb7ca
 
 
+api automation,
+selenium, 
+framework,
+performance testing
